@@ -17,6 +17,7 @@
 
 <style scoped>
 .home {
+    background-color: #fff;
     height: calc(100vh - 6rem);
     overflow: hidden;
     width: 100%;
@@ -45,7 +46,7 @@
 }
 .home__paragraph{
     color: #303135;
-    font-size: 12px;
+    font-size: 14px;
     text-align: justify;
     font-weight: 400;
     margin-bottom: 3.2rem;
@@ -53,7 +54,7 @@
 .home__btn{
     background-color: #58968B;
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 500;
     text-decoration: none;
     padding: 8px 16px;

@@ -15,6 +15,7 @@
 <style scoped>
 .signup__form {
     align-items: flex-start;
+    background-color: #fff;
     display: flex;
     flex-direction: column;
     gap: 24px;
@@ -27,7 +28,7 @@
     width: 100%;
 }
 .item__label {
-    color: #58968B;
+    color: #1f1f1f;
     font-size: 14px;
     font-weight: 500;
 }

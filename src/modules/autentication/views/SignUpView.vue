@@ -25,6 +25,7 @@ const router = useRouter()
 <style scoped>
 .signup {
     width: 100%;
+    background-color: #fff;
 }
 .signup__container {
     align-items: center;
@@ -48,7 +49,7 @@ const router = useRouter()
 }
 .headers__title {
     font-size: 2rem;
-    color: #1F1F1F;
+    color: #58968B;;
 }
 .headers__description {
     color: #303135;
@@ -56,7 +57,7 @@ const router = useRouter()
 }
 .signup__footer {
     color: #303135;
-    font-size: 12px;
+    font-size: 14px;
 }
 .footer__link {
     color: #FF9B00;
